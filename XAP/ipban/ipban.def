@@ -1,0 +1,6 @@
+; ipban.def : Declares the module parameters for the DLL.
+
+LIBRARY      "ipban"
+
+EXPORTS
+    ; Explicit exports can go here

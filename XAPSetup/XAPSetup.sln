@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "XAPSetup", "XAPSetup\XAPSetup.vdproj", "{D36E01B2-C223-4450-9945-8219DA5FBADA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D36E01B2-C223-4450-9945-8219DA5FBADA}.Debug|Default.ActiveCfg = Debug
+		{D36E01B2-C223-4450-9945-8219DA5FBADA}.Debug|Default.Build.0 = Debug
+		{D36E01B2-C223-4450-9945-8219DA5FBADA}.Release|Default.ActiveCfg = Release
+		{D36E01B2-C223-4450-9945-8219DA5FBADA}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
